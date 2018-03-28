@@ -1,0 +1,23 @@
+{
+  "name": "hungrybot",
+  "version": "1.0.0",
+  "description": "Makes Discord Hungry",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomcalob/HungryBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randomcalob/HungryBot/issues"
+  },
+  "homepage": "https://github.com/randomcalob/HungryBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "yelp-fusion": "^2.0.3"
+  }
+}
